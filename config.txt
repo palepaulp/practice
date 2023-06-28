@@ -1,0 +1,2 @@
+ConvertCurrencyToDollars= 60
+ConvertCurrencyToRubles= 0.0167
